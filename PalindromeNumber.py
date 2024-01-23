@@ -2,7 +2,7 @@ class Solution:
     def isPalindrome(self, x):
         if x < 0:
             return False
-        else: 
+        else:
             strNum = str(x)
             strNumLen = len(strNum)
             middle = int(strNumLen / 2)

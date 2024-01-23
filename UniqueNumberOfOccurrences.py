@@ -14,4 +14,3 @@ class Solution(object):
             occurrences.add(num)
 
         return True
-        
