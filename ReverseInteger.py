@@ -1,6 +1,6 @@
 from math import pow
 class Solution:
-    def reverse(self, x: int) -> int:
+    def reverse(self, x):
         if x < 10 and x >= 0:
             return x
         elif x > 0:

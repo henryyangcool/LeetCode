@@ -15,6 +15,3 @@ class Solution:
                     return False
                 b = b - 1
             return True
-
-a = Solution().isPalindrome(232)
-print(a)
